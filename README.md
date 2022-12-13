@@ -40,7 +40,7 @@
 ---
   ### :woman_technologist: About Me :
   
-  I'm Yassine Ait Simmou 18yo from Morocco and I'm currently learning Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  I'm Yassine Ait Simmou 18yo from Morocco and I'm currently learning Front-End Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <!--   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. -->
 
 - :seedling: Exploring Technical Content Writing.
@@ -68,7 +68,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
